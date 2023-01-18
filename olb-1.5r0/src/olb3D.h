@@ -1,0 +1,12 @@
+#include <core/core3D.h>
+#include <boundary/boundary3D.h>
+#include <communication/communication.h>
+#include <dynamics/dynamics3D.h>
+#include <reaction/reaction3D.h>
+#include <functors/functors3D.h>
+#include <geometry/geometry3D.h>
+#include <io/io3D.h>
+#include <solver/solver.h>
+#include <utilities/utilities3D.h>
+#include <particles/subgrid3DLegacyFramework/particles3D.h>
+#include <particles/particles.h>
